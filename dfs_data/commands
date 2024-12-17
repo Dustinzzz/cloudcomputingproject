@@ -1,0 +1,262 @@
+  152  cd dfs_data/
+  153  cd ..
+  154  mkdir cloudcomputingessentialproject
+  155  pwd
+  156  ped
+  157  pwd
+  158  mkdir cloudcomputtingEssesentialproject
+  159  cd cloudcomputtingEssesentialproject
+  160  ls
+  161  mkdir dfs_data
+  162  cd dfs_data/
+  163  mkdir January Febrary March April May June July August September October November December
+  164  ls
+  165  cd January/
+  166  touch data_day_{1.31}
+  167  ls
+  168  touch data_day_{1..31}
+  169  ls
+  170  rm data_day_{1.31}
+  171  ls
+  172  cd ..
+  173  cd Febrary/
+  174  touch data_day_{1..29}
+  175  ls
+  176  cd ..
+  177  cd March/
+  178  touch data_day_{1..31}
+  179  cd ..
+  180  cd April/
+  181  touch data_day_{1..30}
+  182  cd ..
+  183  cd May
+  184  touch data_day_{1..31}
+  185  cd ..
+  186  cd June
+  187  touch data_day_{1..30}
+  188  cd ..
+  189  cd August/
+  190  touch data_day_{1..31}
+  191  cd ..
+  192  cd september
+  193  cd September/
+  194  touch data_day_{1..30}
+  195  cd ..
+  196  cd October/
+  197  touch data_day_{1..31}
+  198  cd ..
+  199  cd November/
+  200  touch data_day_{1..30}
+  201  cd ..
+  202  cd December/
+  203  touch data_day_{1..31}
+  204  ls
+  205  cd ..
+  206  mv dfs_data/January/data_day_{1..31} dfs_data/February/
+  207  mv ./January /data_day{1..31}./Febrary/
+  208  mv ./January /data_day{1..31} ./Febrary/
+  209  mv ./January/data_day_{1..31} ./Febrary/
+  210  mv./January/data_day_{1..31} ./Febrary/
+  211  mv./January/data_day_{1..31}./Febrary/
+  212  mv/January/data_day_{1..31}/Febrary/
+  213  mv January/data_day_{1..31}/Febrary/
+  214  mv January /data_day_{1..31}/Febrary/
+  215  mv ./January/data_day_{1..31} ./Febrary/
+  216  mv ./January/ ./Febrary/
+  217  ls
+  218  cd Febrary/
+  219  ls
+  220  mv ./January/ ./Febrary
+  221  ls
+  222  cd ..
+  223  ls
+  224  cd Febrary/
+  225  ls
+  226  mv ./Febrary/ ./dfs_dat
+  227  ls
+  228  cd ..
+  229  ls
+  230  cd Febrary/
+  231  ls
+  232  rm dfs_data
+  233  rmdir dfs_data
+  234  rm -rf dfs_data
+  235  cd ..
+  236  ls
+  237  cd Febrary/
+  238  ls
+  239  cd ..
+  240  cd January
+  241  mkdir January
+  242  ls
+  243  cd January/
+  244  touch data_day_{1.31}
+  245  cd ..
+  246  mv ./January /data_day_1 ./Febrary
+  247  mv ./January /data_day_1 ./Febrary/
+  248  mv dfs_data/January/data_day_1 dfs_data/February/data_day_1.
+  249  ls
+  250  mkdir January
+  251  touch data_day_{1.31}
+  252  ls
+  253  rm data_day_\{1.31\} 
+  254  ls
+  255  cd January
+  256  touch data_day_{1.31}
+  257  cd ..
+  258  ls
+  259  mv ./January/ ./Febrary/
+  260  mv ./January/ ./Febrary
+  261  mv ./January/* ./Febrary
+  262  ls
+  263  cd Febrary/
+  264  ls
+  265  cd ..
+  266  ls
+  267  cd Febrary/
+  268  ls
+  269  rmdir January/
+  270  rm January/
+  271  rm -rf January/
+  272  ls
+  273  mv ./data_day_1 ./data_day_1_final
+  274  ls
+  275  cd ..
+  276  ls
+  277  touch dfs_config.txt
+  278  ls
+  279  chmod 700 dfs_config.txt
+  280  ls -l
+  281  ls -l dfs_config.txt
+  282  cp dfs_data/February/data_day_1_final dfs_data/backup_data_day_1_final
+  283  ls
+  284  cd ..
+  285  mkdir backup
+  286  ls
+  287  cd backup
+  288  mkdir January Febrary March April May June July August September October November December
+  289  ls
+  290  cd ..
+  291  cd cloudcomputtingEssentialproject
+  294  pwd
+  295  cd cloudcomputtingEssesentialproject/
+  296  clear
+  297  cd cloudcomputtingEssentialproject
+  298  clear
+  299  ls
+  300  cp dfs_data/data_day_1 backup/
+  301  touch data_day_1
+  302  ls
+  303  cp dfs_data/data_day_1 backup/
+  304  cp dfs_data /data_day_1 backup/
+  305  cp data_day_1 backup
+  306  ls
+  307  cd backup
+  308  ls
+  309  cd ..
+  310  cd dfs_data
+  311  ls
+  312  cd ..
+  313  cd dfs_data
+  314  ls
+  315  touch data_day_1
+  316  ls
+  317  rm data_day_1 
+  318  ls
+  319  rmdir march
+  320  cd July
+  321  ls
+  322  rmdir July
+  323  rm July
+  324  cd ..
+  325  rmdir July
+  326  ls
+  327  nano 
+  328  ls
+  329  touch code
+  330  nano code.sh
+  331  cd code
+  332  cd code.sh
+  333  ls
+  334* 
+  335  cd code.sh
+  336* 
+  337  touch code.sh
+  338  nano code.sh
+  339  ./code.sh
+  340  chmod 744 code.sh
+  341  ./code.sh
+  342  ls
+  343  rm code.sh
+  344  touch code.sh
+  345  nano code.sh
+  346  chmod 744 code.sh
+  347  ./code.sh
+  348  ls
+  349  nano code.sh
+  350  ./code.sh
+  351  ls
+  352  uptime
+  353  uptime du
+  354  uptime df
+  355  history
+  356  history | tail -n 20
+  357  history | grep -i file
+  358  ls -l
+  360  ping google.com
+  361  ping -c 4 google.com
+  375  mkdir user_1 user_2
+  376  ls
+  377  nano code.sh
+  378  mkdir deena deena_1
+  379  ls
+  380  delection.sh
+  381  mkdir delection.sh
+  382  chmod 744 delection.sh
+  383  nano delection.sh/
+  384  rmdir delection.sh/
+  385  touch deletion.sh
+  386  chmod 744 deletion.sh 
+  387  nano deletion.sh 
+  388  ls
+  389  ./deletion.sh
+  390  nano delection.sh
+  407  ls
+  408  du -ah dfs_data/ | sort -h
+  409  ls -s
+  410  nano deletion.sh 
+  411  ls
+  412  cd ..
+  413  tar -cvf Archive_file.tar dfs_data
+  414  ls
+  415  cd ..
+  416  ls -all
+  417  git
+  418  git init
+  419  git remote add origin git@github.com:Dustinzzz/cloudcomputingproject.git
+  420  git add .
+  421  ls
+  422  cd cloudcomputtingEssesentialproject/
+  423  ls
+  424  git add .
+  425  git commit -m "first commit"
+  426  git branch
+  427  git branch -M main
+  428  git branch
+  429  git commit -m "first commit"
+  430  git add .
+  431  git commit -m "first commit"
+  432  git init
+  433  git add .
+  434  git commit -m "first commit"
+  435  git push -u origin main
+  436  git remote add origin git@github.com:Dustinzzz/cloudcomputingproject.git
+  437  git push -u origin main
+  438  git add .
+  439  git commit -m "first commit"
+  440  git push -u origin main
+  441  git branch -M main
+  442  git add .
+  443  git commit -m "first commit"
+  444  git push -u origin main
+  445  history
